@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master-PhD track student in Mechanics/Biomedical Engineering at École Polytechnique - Institut Polytechnique de Paris.
 
 ## Research Interests
 
