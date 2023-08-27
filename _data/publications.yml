@@ -48,7 +48,7 @@ main:
   #   notes: Early Accept
 
   - title: "Diffusion and Clustering of Passive particles in a bath of Micro-algae"
-    authors: Dr. Julien Bouvard
+    authors: [Dr. Julien Bouvard](https://scholar.google.fr/citations?user=a23XbPEAAAAJ&hl=fr)
     conference_short: LadHyX
     pdf: ./assets/files/Yiming_report2.pdf
 # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -56,3 +56,4 @@ main:
 #    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
 #    notes: Oral Presentation
     image: ./assets/img/Report2.png
+    slide: https://docs.google.com/presentation/d/1Y-Dh1hn5UsC6km2XO__JaMHdKsUDvqOT/edit?usp=sharing&ouid=113740148888832556286&rtpof=true&sd=true
