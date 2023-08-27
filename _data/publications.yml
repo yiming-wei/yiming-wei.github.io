@@ -1,10 +1,10 @@
 main:
 
-- title: "Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of Miniature Neural Implants"
-     advisor: Prof. Sandro Carrara
-     conference_short: EPFL
-     image: ./assets/img/EPFL.png
-     notes: Ongoing
+# - title: "Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of Miniature Neural Implants"
+#      advisor: Prof. Sandro Carrara
+#      conference_short: EPFL
+#      image: ./assets/img/EPFL.png
+#      notes: Ongoing
 
 # - title: Diffusion and Clustering of Passive particles in a bath of Micro-algae
 #      advisor: Dr. Julien Bouvard
@@ -27,11 +27,11 @@ main:
 #      pdf: ./assets/files/Yiming Report1.pdf
 #      image: ./assets/img/Report1.png
 
-# - title: Development of a Microfluidic chip Activator for a New Tuberculosis Screening Tool
+# - title: Automated Cardiac Diagnosis Using Cardiac Magnetic Resonance Imaging (CMRI) and Machine Learning
 #      advisor: Dr. Manon Giraud
 #      conference_short: Télécom Paris
 #      pdf: ./assets/files/Yiming Report1.pdf
-#      image: ./assets/img/Report1.png
+#      image: ./assets/img/IMA205.pdf
      
 
 
@@ -56,4 +56,11 @@ main:
 #    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
 #    notes: Oral Presentation
     image: ./assets/img/Report2.png
+
+
+- title: "Segmentation and Statistical Analysis of Cellular Images using Deep-Learning"
+     advisor: Prof. Abdul Barakat
+     conference_short: LadHyX
+     pdf: ./assets/files/Yiming Report1.pdf
+     image: ./assets/img/Report1.png
     
