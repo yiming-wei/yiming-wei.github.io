@@ -53,7 +53,7 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+# code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
