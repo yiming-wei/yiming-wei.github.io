@@ -1,11 +1,11 @@
 main:
 
-- title: Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of
-Miniature Neural Implants
-     advisor: Prof. Sandro Carrara
-     conference_short: EPFL
-     image: ./assets/img/EPFL.png
-     notes: Ongoing
+# - title: Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of
+# Miniature Neural Implants
+#      advisor: Prof. Sandro Carrara
+#      conference_short: EPFL
+#      image: ./assets/img/EPFL.png
+#      notes: Ongoing
 
 # - title: Diffusion and Clustering of Passive particles in a bath of Micro-algae
 #      advisor: Dr. Julien Bouvard
@@ -48,13 +48,13 @@ Miniature Neural Implants
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
 
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
