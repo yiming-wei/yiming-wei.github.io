@@ -8,15 +8,15 @@ I am a [Master-PhD track](https://www.ip-paris.fr/en/education/phd-track) studen
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Bioelectronics:** micro-​ and nanosystems, sensors, optics and micro-​fluidics
+- **Biophysics and Biomechanics:** cell mechanics and biological flow
+- **Imaging and Image-Based Modeling:** imaging techniques, machine learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2023]** I started my internship at EPFL [BCI Labs](https://www.epfl.ch/labs/iclab/index-html/bci-group/).
+- **[Apr. 2023]** I started my internships at [LadHyX](https://www.ladhyx.polytechnique.fr/en/).
+
 
 {% include_relative _includes/publications.md %}
 
