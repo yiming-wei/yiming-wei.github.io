@@ -58,9 +58,9 @@ main:
     image: ./assets/img/Report2.png
 
 
-- title: "Segmentation and Statistical Analysis of Cellular Images using Deep-Learning"
-     advisor: Prof. Abdul Barakat
-     conference_short: LadHyX
-     pdf: ./assets/files/Yiming Report1.pdf
-     image: ./assets/img/Report1.png
+# - title: "Segmentation and Statistical Analysis of Cellular Images using Deep-Learning"
+#      advisor: Prof. Abdul Barakat
+#      conference_short: LadHyX
+#      pdf: ./assets/files/Yiming Report1.pdf
+#      image: ./assets/img/Report1.png
     
