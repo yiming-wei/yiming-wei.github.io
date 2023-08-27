@@ -1,11 +1,11 @@
 main:
 
-# - title: Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of
-# Miniature Neural Implants
-#      advisor: Prof. Sandro Carrara
-#      conference_short: EPFL
-#      image: ./assets/img/EPFL.png
-#      notes: Ongoing
+- title: Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of
+Miniature Neural Implants
+     advisor: Prof. Sandro Carrara
+     conference_short: EPFL
+     image: ./assets/img/EPFL.png
+     notes: Ongoing
 
 # - title: Diffusion and Clustering of Passive particles in a bath of Micro-algae
 #      advisor: Dr. Julien Bouvard
