@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master-PhD track student in Mechanics/Biomedical Engineering at École Polytechnique - Institut Polytechnique de Paris.
+I am a [Master-PhD track](https://www.ip-paris.fr/en/education/phd-track) student in [Mechanics/Biomedical Engineering](https://www.ip-paris.fr/en/education/phd-track/phd-track-bioengineering-and-quantitative-life-sciences) at [École Polytechnique](https://www.polytechnique.edu/) - [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
 
 ## Research Interests
 
