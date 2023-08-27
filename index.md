@@ -14,7 +14,7 @@ I am a [Master-PhD track](https://www.ip-paris.fr/en/education/phd-track) studen
 
 ## News
 
-- **[Jul. 2023]** I started my internship at EPFL [BCI Labs](https://www.epfl.ch/labs/iclab/index-html/bci-group/).
+- **[Jul. 2023]** I started my internship at EPFL [BCI Lab](https://www.epfl.ch/labs/iclab/index-html/bci-group/).
 - **[Apr. 2023]** I started my internships at [LadHyX](https://www.ladhyx.polytechnique.fr/en/).
 
 
