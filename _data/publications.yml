@@ -1,11 +1,5 @@
 main:
 
-# - title: "Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of Miniature Neural Implants"
-#      advisor: Prof. Sandro Carrara
-#      conference_short: EPFL
-#      image: ./assets/img/EPFL.png
-#      notes: Ongoing
-
 # - title: Diffusion and Clustering of Passive particles in a bath of Micro-algae
 #      advisor: Dr. Julien Bouvard
 #      conference_short: LadHyX
@@ -77,4 +71,10 @@ main:
     conference_short: LadHyX
     pdf: ./assets/files/Yiming_report2.pdf
     image: ./assets/img/Report2.png
+
+  - title: "Segmentation and Statistical Analysis of Cellular Images using Deep-Learning"
+    advisor: Prof. Abdul Barakat
+    conference_short: LadHyX
+    pdf: ./assets/files/Yiming Report1.pdf
+    image: ./assets/img/Report1.png
 
