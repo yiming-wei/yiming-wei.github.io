@@ -34,6 +34,7 @@ main:
     conference_short: Epilab
     pdf: ./assets/files/Design.pdf
     image: ./assets/img/epilab.png
+    slide: https://docs.google.com/presentation/d/1Knq1RTFsl3aB6Xq3xZzpucBbaIKxZ1ha/edit?usp=drive_link&ouid=113740148888832556286&rtpof=true&sd=true
 
   - title: "Automated Cardiac Diagnosis Using Cardiac Magnetic Resonance Imaging (CMRI) and Machine Learning"
     authors: Kaggle
