@@ -1,36 +1,6 @@
 main:
 
-# - title: Diffusion and Clustering of Passive particles in a bath of Micro-algae
-#      advisor: Dr. Julien Bouvard
-#      conference_short: LadHyX
-#      pdf: ./assets/files/Yiming_report2.pdf
-#      image: ./assets/img/Report2.png
-#      slide: https://docs.google.com/presentation/d/1Y-Dh1hn5UsC6km2XO__JaMHdKsUDvqOT/edit?usp=sharing&ouid=113740148888832556286&rtpof=true&sd=true
-
-# - title: Segmentation and Statistical Analysis of Cellular Images using Deep-Learning
-#      advisor: Prof. Abdul Barakat
-#      conference_short: LadHyX
-#      pdf: ./assets/files/Yiming Report1.pdf
-#      image: ./assets/img/Report1.png
-#      slide: https://docs.google.com/presentation/d/1Y-Dh1hn5UsC6km2XO__JaMHdKsUDvqOT/edit?usp=sharing&ouid=113740148888832556286&rtpof=true&sd=true 
-
-
-# - title: Development of a Microfluidic chip Activator for a New Tuberculosis Screening Tool
-#      advisor: Dr. Manon Giraud
-#      conference_short: Epilab
-#      pdf: ./assets/files/Yiming Report1.pdf
-#      image: ./assets/img/Report1.png
-
-# - title: Automated Cardiac Diagnosis Using Cardiac Magnetic Resonance Imaging (CMRI) and Machine Learning
-#      advisor: Dr. Manon Giraud
-#      conference_short: Télécom Paris
-#      pdf: ./assets/files/IMA205.pdf
-#      image: ./assets/img/IMA205.png
-     
-
-
-
-
+ 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
   #   conference_short: MICCAI
@@ -40,25 +10,6 @@ main:
   #   bibtex: https://bib.yliu.me/MICCAI23.txt
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
-
-#   - title: "Diffusion and Clustering of Passive particles in a bath of Micro-algae"
-#     advisor: Dr. Julien Bouvard
-#     conference_short: LadHyX
-#     pdf: ./assets/files/Yiming_report2.pdf
-# # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-# #    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-# #    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-# #    notes: Oral Presentation
-#     image: ./assets/img/Report2.png
-
-
-# - title: "Segmentation and Statistical Analysis of Cellular Images using Deep-Learning"
-#      advisor: Prof. Abdul Barakat
-#      conference_short: LadHyX
-#      pdf: ./assets/files/Yiming Report1.pdf
-#      image: ./assets/img/Report1.png
-    
-
 
   - title: Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of Miniature Neural Implants
     advisor: Prof. Sandro Carrara
@@ -77,4 +28,17 @@ main:
     conference_short: LadHyX
     pdf: ./assets/files/Yiming Report1.pdf
     image: ./assets/img/Report1.png
+
+  - title: "Development of a Microfluidic chip Activator for a New Tuberculosis Screening Tool"
+    advisor: Dr. Manon Giraud
+    conference_short: Epilab
+    pdf: ./assets/files/Design.pdf
+    image: ./assets/img/epilab.png
+
+  - title: "Automated Cardiac Diagnosis Using Cardiac Magnetic Resonance Imaging (CMRI) and Machine Learning"
+    authors: Kaggle
+    conference_short: Télécom Paris
+    pdf: ./assets/files/IMA205.pdf
+    image: ./assets/img/IMA205.png
+
 
