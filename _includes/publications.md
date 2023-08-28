@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -17,15 +17,8 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      {% if link.authors %}
       <div class="author">{{ link.authors }}</div>
-      {% endif %}
-      {% if link.advisor %}
-        <div class="advisor">Advisor: {{ link.advisor }}</div>
-      {% endif %}
-      {% if link.conference %}
       <div class="periodical"><em>{{ link.conference }}</em>
-      {% endif %}
       </div>
     <div class="links">
       {% if link.pdf %} 
@@ -39,9 +32,6 @@
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.slide %}
-      <a href="{{ link.slide }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
@@ -60,4 +50,3 @@
 
 </ol>
 </div>
-
