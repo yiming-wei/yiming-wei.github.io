@@ -21,7 +21,13 @@
       <div class="author">{{ link.authors }}</div>
       {% endif %}
       {% if link.advisor %}
-      <div class="advisor">Advisor: {{ link.advisor }}</div>
+       <div class="advisor">
+        {% if link.advisor_url %}
+          Advisor: <a href="{{ link.advisor_url }}" target="_blank">{{ link.advisor }}</a>
+        {% else %}
+          Advisor: {{ link.advisor }}
+        {% endif %}
+       </div>
       {% endif %}
       {% if link.conference %}
       <div class="periodical"><em>{{ link.conference }}</em>
