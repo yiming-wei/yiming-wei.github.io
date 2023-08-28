@@ -21,10 +21,12 @@
       <div class="author">{{ link.authors }}</div>
       {% endif %}
       {% if link.advisor %}
-      <div class="advisor">{{ link.advisor }}</div>
+      <div class="advisor">Advisor: {{ link.advisor }}</div>
       {% endif %}
+      {% if link.conference %}
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
+      {% endif %}
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
