@@ -15,7 +15,8 @@ main:
     advisor: Prof. Sandro Carrara
     advisor_url: "https://scholar.google.com/citations?user=czTHgkMAAAAJ&hl=en"
     conference_short: EPFL
-    image: ./assets/img/EPFL.png
+    image: ./assets/img/EPFLcover.png
+    slide: https://docs.google.com/presentation/d/1Knq1RTFsl3aB6Xq3xZzpucBbaIKxZ1ha/edit?usp=drive_link&ouid=113740148888832556286&rtpof=true&sd=true
     notes: Ongoing
 
   - title: "Diffusion and Clustering of Passive particles in a bath of Micro-algae"
