@@ -15,7 +15,7 @@ main:
     advisor: Prof. Jean-Charles Vanel
     advisor_url: "https://scholar.google.fr/citations?user=HbnM4SsAAAAJ&hl=fr"
     conference_short: Ecole polytechnique
-    image: ./assets/NMR.png
+    image: ./assets/img/NMR.png
     pdf: ./assets/files/NMR_RP.pdf
     notes: Ongoing
 
