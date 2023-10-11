@@ -11,6 +11,14 @@ main:
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
 
+  - title: FPGA-based NMR and deconvolution of 1D NMR spectra using deep learning
+    advisor: Prof. Jean-Charles Vanel
+    advisor_url: "https://scholar.google.fr/citations?user=HbnM4SsAAAAJ&hl=fr"
+    conference_short: Ecole polytechnique
+    image: ./assets/NMR.png
+    pdf: ./assets/files/NMR_RP.pdf
+    notes: Ongoing
+
   - title: Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of Miniature Neural Implants
     advisor: Prof. Sandro Carrara
     advisor_url: "https://scholar.google.com/citations?user=czTHgkMAAAAJ&hl=en"
