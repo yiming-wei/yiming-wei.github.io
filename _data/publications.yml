@@ -11,13 +11,14 @@ main:
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
 
-  - title: FPGA-based NMR and deconvolution of 1D NMR spectra using deep learning
+  - title: FPGA-BASED NMR DIGITAL BACK-END AND SPECTRA DECONVOLUTION ACCELERATOR
     advisor: Prof. Jean-Charles Vanel
     advisor_url: "https://scholar.google.fr/citations?user=HbnM4SsAAAAJ&hl=fr"
     conference_short: Ecole polytechnique
     image: ./assets/img/NMR.png
-    pdf: ./assets/files/NMR_RP.pdf
-    notes: Ongoing
+    pdf: ./assets/files/NMR_report.pdf
+    slide: https://docs.google.com/presentation/d/1fz3NwnN5oFCbvku65Twv1KQjEZP1Jze9/edit?usp=sharing&ouid=113740148888832556286&rtpof=true&sd=true
+    
 
   - title: Validation and PCB Design of a Novel Inductive Dual-frequency Link for Wireless Powering of Miniature Neural Implants
     advisor: Prof. Sandro Carrara
@@ -25,7 +26,7 @@ main:
     conference_short: EPFL
     image: ./assets/img/EPFLcover.png
     slide: https://docs.google.com/presentation/d/1iHtTu_SsLT23YpPeLE2IcuM3upj0xfzG/edit?usp=sharing&ouid=113740148888832556286&rtpof=true&sd=true
-    notes: Ongoing
+    
 
   - title: "Diffusion and Clustering of Passive particles in a bath of Micro-algae"
     advisor: Dr. Julien Bouvard
