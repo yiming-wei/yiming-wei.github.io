@@ -11,6 +11,16 @@ main:
   #   image: ./assets/img/teaser_example_2.png
   #   notes: Early Accept
 
+
+    - title: Design an analog front-end for Silicon Photo Multiplier
+    advisor: Prof. Christophe De la taille
+    advisor_url: "https://scholar.google.com/citations?user=Kvo8u74AAAAJ&hl=fr"
+    conference_short: OMEGA
+    image: ./assets/img/asic.png
+    pdf: ./assets/files/PHY581CYimingWei.pdf
+    slide: https://docs.google.com/presentation/d/1cW29FNnTzionPy8t81hA_yLHu1X8zSbi/edit?usp=sharing&ouid=113740148888832556286&rtpof=true&sd=true
+    
+
   - title: FPGA-BASED NMR DIGITAL BACK-END AND SPECTRA DECONVOLUTION ACCELERATOR
     advisor: Prof. Jean-Charles Vanel
     advisor_url: "https://scholar.google.fr/citations?user=HbnM4SsAAAAJ&hl=fr"
