@@ -12,6 +12,16 @@ main:
   #   notes: Early Accept
 
 
+  - title: Performance Evaluation of Wireless Capacitor Charging with Cockcroft-Walton Multiplier
+    advisor: Prof. Morgan Almanza
+    advisor_url: "https://scholar.google.fr/citations?user=piwhL7QAAAAJ&hl=en"
+    conference_short: SATiE
+    image: ./assets/img/Satie.png
+    pdf: ./assets/files/Yiming_Wei_master_thesis.pdf
+    slide: https://docs.google.com/presentation/d/1kJgzhrdHu8f1eCTqtvd_eU7w7MiwizBo/edit?usp=drive_link&ouid=113740148888832556286&rtpof=true&sd=true
+
+
+
   - title: Design an analog front-end for Silicon Photo Multiplier
     advisor: Prof. Christophe De la taille
     advisor_url: "https://scholar.google.com/citations?user=Kvo8u74AAAAJ&hl=fr"
@@ -55,12 +65,12 @@ main:
     image: ./assets/img/Report1.png
     slide: https://docs.google.com/presentation/d/1ecRy0GHbu74HMNx1DCSm6bn4FVn06Ofp/edit?usp=drive_link&ouid=113740148888832556286&rtpof=true&sd=true
 
-  - title: "Development of a Microfluidic chip Activator for a New Tuberculosis Screening Tool"
-    advisor: Dr. Manon Giraud
-    conference_short: Epilab
-    pdf: ./assets/files/Design.pdf
-    image: ./assets/img/epilab.png
-    slide: https://docs.google.com/presentation/d/1Knq1RTFsl3aB6Xq3xZzpucBbaIKxZ1ha/edit?usp=drive_link&ouid=113740148888832556286&rtpof=true&sd=true
+  # - title: "Development of a Microfluidic chip Activator for a New Tuberculosis Screening Tool"
+  #   advisor: Dr. Manon Giraud
+  #   conference_short: Epilab
+  #   pdf: ./assets/files/Design.pdf
+  #   image: ./assets/img/epilab.png
+  #   slide: https://docs.google.com/presentation/d/1Knq1RTFsl3aB6Xq3xZzpucBbaIKxZ1ha/edit?usp=drive_link&ouid=113740148888832556286&rtpof=true&sd=true
 
   - title: "Automated Cardiac Diagnosis Using Cardiac Magnetic Resonance Imaging (CMRI) and Machine Learning"
     authors: Kaggle
